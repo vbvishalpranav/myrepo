@@ -1,8 +1,4 @@
  hello world
-<<<<<<< HEAD
 usa
 canada
- typed from cli
-=======
  typed from console
->>>>>>> c098d95fc28dabe7416ff4abce8e4bfc98809d30
