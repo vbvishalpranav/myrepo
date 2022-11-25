@@ -1,4 +1,4 @@
  hello world
 usa
 canada
- typed from console
+typed from cli
