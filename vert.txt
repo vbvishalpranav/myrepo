@@ -1,4 +1,2 @@
  hello world
- india 
- australia 
- typed from cli
+ typed from console
